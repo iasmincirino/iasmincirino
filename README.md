@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmincirino&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-### Tecnologias que eu uso no meu dia a dia:
+### Tecnologias que eu uso:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
