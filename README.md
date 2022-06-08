@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Olá! Eu sou a Iasmin Cirino!
+### Olá! Eu sou a Iasmin Cirino!
 
 <div align="center">
   <a href="https://github.com/iasmincirino">
